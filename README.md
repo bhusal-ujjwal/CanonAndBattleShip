@@ -8,4 +8,4 @@ When the ball reaches the  left side of the window, it disappears (it need to be
 In the left part of the main window, there will be a small rectangle (representing the battle ship), which can be moved to the up /down by a mouse or keyboard.
 Every hit can cause the game stop, and the time between game start and game stop will be the "score".
 Put a start button for the game to be started.
-The whole application needs to be cross-platform and use Qt library and QTimers.
+The whole app is cross-platform through use of Qt library and QTimers.
